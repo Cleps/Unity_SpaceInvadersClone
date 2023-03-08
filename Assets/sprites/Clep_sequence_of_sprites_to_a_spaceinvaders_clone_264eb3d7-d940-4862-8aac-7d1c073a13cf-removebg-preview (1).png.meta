@@ -1,0 +1,1193 @@
+fileFormatVersion: 2
+guid: ddc3766dc1b1fbc438cd130699be3379
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 394
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08dde7749242814f9eadf7730319403
+      internalID: -998727321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 466
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0586af63cb38d6444b52703cf55b80c3
+      internalID: -681395913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 468
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200d94c6d0fa7843a3f8a795accb957
+      internalID: -1672084153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 390
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df5ba9b8e089b944bafd9347a03cea0
+      internalID: 1634887503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 403
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abd04a0285050f488b3762cfc122810
+      internalID: -1060276704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 385
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e392e303f280d43ac36cdc0f833d35
+      internalID: -2000815160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 388
+        width: 118
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b98432c5e3904cb30c2869c7cb0ec
+      internalID: -2074579331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 275
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b28f2fcbc4e94fbaa7c8fec487a4c
+      internalID: -1205538108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 280
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e07a0dc07599e74c93fe254ca55f4e3
+      internalID: 1583667867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 273
+        width: 66
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad772bb89621b734d8ce5335167c97ee
+      internalID: 981193195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 266
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5fecff772151e4cb230f78555b49aa
+      internalID: -472524365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 266
+        width: 33
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5101642, y: 0.21085857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef5641b132de445b32b3e13278637a
+      internalID: 1719483841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 312
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80d41e5c4812c489410b0d5250b4bf
+      internalID: -1196886054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 313
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620a4890d9219340847b17c7c6c3cfb
+      internalID: 1541071813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 291
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17fb35f2643ea408f585d7a0d7df20
+      internalID: -1863783842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 291
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d483e9166d1148a7f06bc31ae06fd
+      internalID: 985199807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 273
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff69cfaa0dce4b41b5167906def7202
+      internalID: -1853819694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 278
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b0be12b5716b488edc06acc9d2481
+      internalID: 818133083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 278
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc2112dd3029e548a0d6f36d51b664c
+      internalID: -1423846926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 276
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c002e0382fc144887cd85f24afa6f4
+      internalID: -476441802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 278
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10804fcd207af6347a514c010bce9d4e
+      internalID: -1606302300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 274
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04a494133993944b631414688731e6
+      internalID: -664110715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 272
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059560e9c4a2974eb46800354e92261
+      internalID: 1684942773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 155
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f6d889b48f9034b92259866f979bc2
+      internalID: -1326442447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 12
+        width: 112
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cbedf088527c14495ae2f5113cfde1
+      internalID: -2073470203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 173
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eba583a298d4048b6d9d0f7220aa55
+      internalID: -1750958838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 174
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbef0219df020b4ab6f52a0d04bcbf7
+      internalID: 888032096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 186
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34fdbe1b18ca947a0c2c8fbbe882f6
+      internalID: -323056065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 174
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ccaebca1932e045887cb067c05cf62
+      internalID: -1200170895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 178
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1029956d1c11649b5125327bfe3be2
+      internalID: 231114999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a970c23962ee4204c8e488587e3156e3
+      internalID: 295335215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ac25b421e31e94095914998243834c
+      internalID: -403267817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 114
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41faa3a265e5794989f529c829cbefd
+      internalID: 2065090364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 101
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e358a9c0471849a3922d83824d135
+      internalID: 1158414961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 114
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643504bae8ab781468ecb2dd34d6b037
+      internalID: 1390621581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 99
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cc23b0be33d1240ae113464498a2b8
+      internalID: -2103505996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 97
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32064b200d644a44bbb0cc5cceef1e6b
+      internalID: -1984273732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 99
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5467a82080cdd419dac4e470da91f2
+      internalID: -1357574550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 18
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec53f3202fa13e4d8c65fe94eb1b981
+      internalID: -2137411246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 85
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d13899df0c744d992a2cb09e31761
+      internalID: 197820616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 19
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6877c19006919f143838c933884cb2a0
+      internalID: 1359661657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 18
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2590637ce1550478e2b66b1f4433b4
+      internalID: -1770437807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 87
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccab6ae50438194b95d31b53fc5f2f8
+      internalID: -1624162129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 266
+        width: 33
+        height: 58
+      alignment: 9
+      pivot: {x: 0.51863515, y: 0.19456114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb1eb83e569984fa20b9470ab4ca41
+      internalID: -353903095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 266
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0250d15ff9f8dbb40a8def574b0e44c3
+      internalID: 1576761283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 267
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a2d441b676fa04680b46dc6ac143a6
+      internalID: 508724709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_0: -998727321
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_1: -681395913
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_10: -472524365
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_11: 1719483841
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_12: -1196886054
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_13: 1541071813
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_14: -1863783842
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_15: 985199807
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_16: -1853819694
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_17: 818133083
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_18: -1423846926
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_19: -476441802
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_2: -1672084153
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_20: -1606302300
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_21: -664110715
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_22: 1684942773
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_23: -1326442447
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_24: -2073470203
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_25: -1750958838
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_26: 888032096
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_27: -323056065
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_28: -1200170895
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_29: 231114999
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_3: 1634887503
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_30: 295335215
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_31: -403267817
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_32: 2065090364
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_33: 1158414961
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_34: 1390621581
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_35: -2103505996
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_36: -1984273732
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_37: -1357574550
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_38: -2137411246
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_39: 197820616
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_4: -1060276704
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_40: 1359661657
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_41: -1770437807
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_42: -1624162129
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_43: -353903095
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_44: 1576761283
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_45: 508724709
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_5: -2000815160
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_6: -2074579331
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_7: -1205538108
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_8: 1583667867
+      Clep_sequence_of_sprites_to_a_spaceinvaders_clone_264eb3d7-d940-4862-8aac-7d1c073a13cf-removebg-preview (1)_9: 981193195
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
